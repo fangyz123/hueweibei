@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ aip-java-sdk-4.1.1.jar json-20160810.jar log4j-1.2
+ .17.jar beautyeye_lnf.jar
+Class-Path: .
+Rsrc-Main-Class: com.janborn.www.Demo
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
